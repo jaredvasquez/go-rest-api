@@ -1,0 +1,6 @@
+Makefile
+
+# Git
+.git
+.gitattributes
+README.md
